@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "asianrecs": {
+      "type": "http",
+      "url": "https://asianrecs.com/api/mcp"
+    }
+  }
+}

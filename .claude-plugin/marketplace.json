@@ -1,0 +1,11 @@
+{
+  "name": "asianrecs",
+  "owner": { "name": "Asian Recs", "url": "https://asianrecs.com" },
+  "plugins": [
+    {
+      "name": "asianrecs",
+      "source": "./asianrecs",
+      "description": "Restaurants, desserts, cafes and bars in San Francisco and New York, ranked by how Asian diners rate them."
+    }
+  ]
+}
