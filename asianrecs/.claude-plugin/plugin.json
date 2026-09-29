@@ -3,6 +3,7 @@
   "displayName": "Asian Recs",
   "version": "1.0.0",
   "description": "Restaurants, desserts, cafes and bars in San Francisco and New York, ranked by how Asian diners rate them.",
+  "icon": "./.claude-plugin/icon.png",
   "author": {
     "name": "Asian Recs",
     "url": "https://asianrecs.com"
