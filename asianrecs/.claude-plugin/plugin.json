@@ -2,6 +2,17 @@
   "name": "asianrecs",
   "version": "1.0.0",
   "description": "Restaurants, desserts, cafes and bars in San Francisco and New York, ranked by how Asian diners rate them.",
-  "homepage": "https://asianrecs.com",
-  "keywords": ["restaurants", "food", "san francisco", "new york"]
+  "author": {
+    "name": "Asian Recs",
+    "url": "https://asianrecs.com"
+  },
+  "homepage": "https://asianrecs.com/claude",
+  "repository": "https://github.com/raymond-raymond/asianrecs-claude",
+  "license": "MIT",
+  "keywords": [
+    "restaurants",
+    "food",
+    "san francisco",
+    "new york"
+  ]
 }

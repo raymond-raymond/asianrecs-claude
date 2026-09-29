@@ -1,6 +1,9 @@
 {
   "name": "asianrecs",
-  "owner": { "name": "Asian Recs", "url": "https://asianrecs.com" },
+  "owner": {
+    "name": "Asian Recs",
+    "url": "https://asianrecs.com"
+  },
   "plugins": [
     {
       "name": "asianrecs",

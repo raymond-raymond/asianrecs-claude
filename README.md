@@ -12,7 +12,7 @@ beside how everyone else does. Data from [asianrecs.com](https://asianrecs.com),
 
 ## Claude.ai and Claude Desktop
 
-Settings → Connectors → Add custom connector → `https://asianrecs.com/api/mcp`
+Find Asian Recs in the connectors directory, or Settings → Connectors → Add custom connector → `https://asianrecs.com/api/mcp`
 
 ## Try
 

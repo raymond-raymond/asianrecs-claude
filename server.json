@@ -1,0 +1,10 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.asianrecs/asianrecs",
+  "title": "Asian Recs",
+  "description": "SF and NYC restaurants, cafes, desserts and bars ranked by how Asian diners rate them.",
+  "version": "1.0.0",
+  "websiteUrl": "https://asianrecs.com/claude",
+  "repository": { "url": "https://github.com/raymond-raymond/asianrecs-claude", "source": "github" },
+  "remotes": [{ "type": "streamable-http", "url": "https://asianrecs.com/api/mcp" }]
+}
