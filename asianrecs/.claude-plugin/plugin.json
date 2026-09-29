@@ -9,6 +9,9 @@
     "url": "https://asianrecs.com"
   },
   "homepage": "https://asianrecs.com/claude",
+  "documentationUrl": "https://asianrecs.com/claude",
+  "privacyPolicyUrl": "https://asianrecs.com/privacy",
+  "supportUrl": "https://github.com/raymond-raymond/asianrecs-claude/issues",
   "repository": "https://github.com/raymond-raymond/asianrecs-claude",
   "license": "MIT",
   "keywords": [
